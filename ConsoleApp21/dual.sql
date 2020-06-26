@@ -1,0 +1,1 @@
+select 'UTF character LINE SEPARATOR \u2028 at the end of this line' from dual; select 'UTF character PARAGRAPH SEPARATOR \u2029 at the end of this line' from dual; select 'UTF character NEXT LINE(NEL) \u0085 at the end of this line' from dual;  
