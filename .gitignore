@@ -341,3 +341,6 @@ healthchecksdb
 
 # Build files
 build*.bat
+
+# SonarQube folder
+.sonarqube
